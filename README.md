@@ -5,6 +5,6 @@
 
 ![image](https://raw.githubusercontent.com/SamanthaCaamal/arquitectura_sw/main/Fotos/samantha.jpg)
 
-*   Nombre apellido
+*   Montserrat Bustamante Rentería
 *   Nombre apellido
 *   Nombre apellido
