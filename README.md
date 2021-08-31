@@ -9,5 +9,5 @@
 
 ![image](https://raw.githubusercontent.com/SamanthaCaamal/arquitectura_sw/main/Fotos/montse.jpg)
 
-*   Nombre apellido
+*   Emilio Manuel Lara Bermúdez
 *   Nombre apellido
