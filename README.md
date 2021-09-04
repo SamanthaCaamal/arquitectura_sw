@@ -7,7 +7,7 @@
 
 *   Montserrat Bustamante Rentería
 
-![image](https://raw.githubusercontent.com/SamanthaCaamal/arquitectura_sw/main/Fotos/montse.jpg)
+![image](https://raw.githubusercontent.com/SamanthaCaamal/arquitectura_sw/main/Fotos/montse.png)
 
 *   Emilio Manuel Lara Bermúdez
 
