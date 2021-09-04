@@ -13,4 +13,4 @@
 
 ![image](https://github.com/SamanthaCaamal/arquitectura_sw/blob/79b4eee2502ab7e475d4ea3c16a7459ce027fad2/Fotos/FotoEmilio.png)
 
-*   Nombre apellido
+*   Senaida Norely Chan Chan
